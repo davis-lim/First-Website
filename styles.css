@@ -60,3 +60,69 @@ button{
     justify-content: space-around;
     padding: 50px;
 }
+
+.header-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding: 60px;
+}
+
+.colleges {
+    display: flex;
+    justify-content: space-around;
+    gap: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.colleges img {
+    margin: auto;
+    display: block;
+}
+
+.subtext-1 {
+    font-size: 18px;
+    color: black;
+}
+
+.basser {
+    margin-top: 33px;
+    
+}
+.basser .subtext-1 {
+    margin-top: 50px;
+}
+
+.goldstein {
+    margin-top: 15px;
+}
+.goldstein .subtext-1 {
+    margin-top: 40px;
+}
+.part-3 {
+    background-color: #E5e7eb;
+}
+.container-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: lighter;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+}
+.quote-name {
+    font-size: 18px;
+    font-weight: 400;
+    text-align: right;
+    margin-right: 200px;
+}
